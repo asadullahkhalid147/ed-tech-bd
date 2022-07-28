@@ -1,0 +1,7 @@
+.panda-bg-info {
+    background-color: rgb(52, 54, 55);
+}
+
+.brightness {
+    filter: brightness(50%);
+}
